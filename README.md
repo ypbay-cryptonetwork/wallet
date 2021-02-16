@@ -56,8 +56,8 @@ blockNumberStartToScan = 22690588 // NOTE: this field is optional
 
 ### Connect to ypbay-cryptonetwork
 
-Wallet-cli connect to java-ypbay via gRPC protocol, which can be deployed locally or remotely. Check **Run a web Wallet** section.
-We can configure java-ypbay node IP and port in ``src/main/resources/config.conf``, so that wallet-cli server can successfully talk to java-ypbay nodes.
+Wallet-cli connect to ypbay-cryptonetwork via gRPC protocol, which can be deployed locally or remotely. Check **Run a web Wallet** section.
+We can configure ypbay-cryptonetwork node IP and port in ``src/main/resources/config.conf``, so that wallet-cli server can successfully talk to ypbay-cryptonetwork nodes.
 
 ## Wallet-cli supported command list
 
